@@ -18,6 +18,8 @@ package config
 
 // Define constants for supported IDL types.
 const (
+		Unknown2  string = ""
+
 	Unknown  string = ""
 	Thrift   string = "thrift"
 	Protobuf string = "protobuf"
